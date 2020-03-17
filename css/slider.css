@@ -1,0 +1,25 @@
+.noppading{padding:0px !important;}
+.rated-slider{padding:40px 0px;padding-bottom:50px;}
+.heading-tab{font-size:32px;text-align:center;margin-bottom:40px;}
+.slab-slide .bigimg-tab{width:50%;float:left;height:410px;}
+.description-tab{background:#fff;position:absolute;width:46%;margin-left:-26px;right:80px;top:30px;-webkit-box-shadow:0 0 10px #ccc;box-shadow:0 0 10px #ccc;padding:30px;color:#666;font-size:16px;}
+.description-tab h3{margin:0px;text-transform:uppercase;font-size:28px;}
+.head-smaldes{font-family:Gotham-Book;margin:4px 0px;}
+.block-para{font-family:'Gotham-light';clear:both;}
+.description-tab hr{border:1px solid #ff0000;margin-top:0px;width:12%;text-align:left;left:0;float:left;border-width:1px;}
+.knowmore{background:#000;border:1px solid #000;color:#fff;font-size:14px;font-family:Gotham-Book;padding:5px 15px;border-radius:4px;margin-top:15px;}
+.right-redbox{background:#ff0000;height:150px;position:absolute;right:0;width:95px;top:30%;z-index:-1;}
+.slider-hashtab .carousel-indicators li{width:60px !important;height:5px !important;background-color:#d9d9d9;border:1px solid #d9d9d9 !important;border-radius:10px !important;}
+.slider-hashtab .carousel-indicators li.active{width:60px !important;height:5px !important;background-color:#ff0000;border:1px solid #ff0000 !important;border-radius:10px !important;}
+.slider-hashtab .carousel-indicators{bottom:-10%;}
+@media(min-width:320px) and (max-width:767px){.blog #bann-inner{height:auto;}
+.heading-tab{font-size:20px;margin-bottom:20px;}
+.slab-slide .bigimg-tab{width:auto;height:auto;}
+.description-tab{background:#ff0000;position:relative;width:auto;margin-left:0px;right:0px;top:0px;padding:15px;color:#fff;font-size:14px;clear:both;text-align:center;}
+.description-tab h3{font-size:15px;}
+.slab-slide .knowmore{margin-top:2px;padding:3px 10px;}
+.description-tab hr{border-color:#fff;float:none;width:100%;}
+.right-redbox{display:none;}
+.slider-hashtab .carousel-indicators li{width:25px;}
+.slider-hashtab .carousel-indicators li.active{width:25px;}
+}z

@@ -382,6 +382,24 @@
 /* Small Devices Potrait */
 @media (max-width : 767px){
 
+.site-nav-inner ul li img{
+	margin-right: 10px;
+}
+
+#main-slide .slidertext{
+    bottom: 0px;
+    background: #00000059;
+    padding: 25px;
+}
+
+#main-slide .brand-img {
+    width: 100% !important;
+    /*height: 50px !important;*/
+}
+
+.header-right{
+	display: none;
+}
 	/* Top bar */
 
 	ul.top-info{
@@ -408,9 +426,9 @@
 		padding: 40px 0;
 	}
 
-	.logo-area .logo{
+	/*.logo-area .logo{
 		padding-bottom: 40px;
-	}
+	}*/
 
 	.header-two .logo {
    	padding: 15px 0 25px 15px;

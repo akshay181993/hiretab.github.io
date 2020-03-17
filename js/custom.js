@@ -24,6 +24,7 @@ jQuery(function ($) {
 	/*  Fixed header
 	/* ----------------------------------------------------------- */
 
+
 	$(window).on('scroll', function () {
 		if ($(window).scrollTop() > 70) {
 			$('.navdown, .header-two').addClass('navbar-fixed');
@@ -246,6 +247,7 @@ jQuery(function ($) {
 	/* ----------------------------------------------------------- */
 	$(document).ready(function () {
 
+
 		var url = window.location;
 	    $('.nav li a').filter(function() {
 	        $(".nav li").removeClass("active");
@@ -398,4 +400,3 @@ var fixmeTop = $('.btn-contact').offset().top;
 		    }
 		});
 	}
-
